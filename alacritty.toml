@@ -1,5 +1,8 @@
+# Window 
 [window]
-opacity = 0.9
+opacity = 0.8
+# Fonts
 [font.normal]
 family = "DaddyTimeMono Nerd Font Propo"
 style = "regular"
+
